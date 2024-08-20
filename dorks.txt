@@ -1,0 +1,75 @@
+intext:"负责任的披露"
+intext:"负责任的披露" site:*.cn
+China
+
+intext:"Divulgación responsable"
+intext:"Divulgación responsable" site:*.es
+Spain
+
+intext:"Responsible Disclosure"
+intext:"Responsible Disclosure" site:*.com
+United States
+
+intext:"ज़िम्मेदार प्रकटीकरण"
+intext:"ज़िम्मेदार प्रकटीकरण" site:*.in
+India
+
+intext:"الإفصاح المسؤول"
+intext:"الإفصاح المسؤول" site:*.ae
+United Arab Emirates
+
+intext:"দায়িত্বশীল প্রকাশ"
+intext:"দায়িত্বশীল প্রকাশ" site:*.bd
+Bangladesh
+
+intext:"Divulgação responsável"
+intext:"Divulgação responsável" site:*.pt
+Portugal
+
+intext:"Ответственное раскрытие"
+intext:"Ответственное раскрытие" site:*.ru
+Russia
+
+intext:"責任ある開示"
+intext:"責任ある開示" site:*.jp
+Japan
+
+intext:"Verantwortungsvolle Offenlegung"
+intext:"Verantwortungsvolle Offenlegung" site:*.de
+Germany
+
+intext:"Pambocoran sing tanggung jawab"
+intext:"Pambocoran sing tanggung jawab" site:*.id
+Indonesia
+
+intext:"책임 있는 공개"
+intext:"책임 있는 공개" site:*.kr
+South Korea
+
+intext:"Divulgation responsable"
+intext:"Divulgation responsable" site:*.fr
+France
+
+intext:"ذمہ دارانہ افشاء"
+intext:"ذمہ دارانہ افشاء" site:*.pk
+Pakistan
+
+intext:"Sorumlu açıklama"
+intext:"Sorumlu açıklama" site:*.tr
+Turkey
+
+intext:"Kenyataan bertanggungjawab"
+intext:"Kenyataan bertanggungjawab" site:*.my
+Malaysia
+
+intext:"Tanggung jawab pengungkapan"
+intext:"Tanggung jawab pengungkapan" site:*.ph
+Philippines
+
+intext:"Ansvarsfull avsløring"
+intext:"Ansvarsfull avsløring" site:*.no
+Norway
+
+intext:"Révélation responsable"
+intext:"Révélation responsable" site:*.ca
+Canada
