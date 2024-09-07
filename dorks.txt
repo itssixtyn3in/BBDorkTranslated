@@ -73,3 +73,79 @@ Norway
 intext:"Révélation responsable"
 intext:"Révélation responsable" site:*.ca
 Canada
+
+intext:"Responsable divulgación"
+intext:"Responsable divulgación" site:*.mx
+Mexico
+
+intext:"Responsabilité divulgation"
+intext:"Responsabilité divulgation" site:*.ch
+Switzerland
+
+intext:"Verantwoordelijke openbaarmaking"
+intext:"Verantwoordelijke openbaarmaking" site:*.nl
+Netherlands
+
+intext:"Responsável divulgação"
+intext:"Responsável divulgação" site:*.br
+Brazil
+
+intext:"Responsable divulgación"
+intext:"Responsable divulgación" site:*.cl
+Chile
+
+intext:"责任披露"
+intext:"责任披露" site:*.hk
+Hong Kong
+
+intext:"Responsabilidade na divulgação"
+intext:"Responsabilidade na divulgação" site:*.ao
+Angola
+
+intext:"Deber de divulgación"
+intext:"Deber de divulgación" site:*.bo
+Bolivia
+
+intext:"Responsabilitatea divulgării"
+intext:"Responsabilitatea divulgării" site:*.ro
+Romania
+
+intext:"Ansvarlig offentliggørelse"
+intext:"Ansvarlig offentliggørelse" site:*.dk
+Denmark
+
+intext:"Responsabilité divulguée"
+intext:"Responsabilité divulguée" site:*.be
+Belgium
+
+intext:"Tanggung jawab pengungkapan"
+intext:"Tanggung jawab pengungkapan" site:*.sg
+Singapore
+
+intext:"Huvudansvariga avslöjanden"
+intext:"Huvudansvariga avslöjanden" site:*.se
+Sweden
+
+intext:"Responsável pela divulgação"
+intext:"Responsável pela divulgação" site:*.mz
+Mozambique
+
+intext:"Responsabilité de divulgation"
+intext:"Responsabilité de divulgation" site:*.ne
+Niger
+
+intext:"Oda ötürü açığa çıkartma"
+intext:"Oda ötürü açığa çıkartma" site:*.gr
+Greece
+
+intext:"Panggung jawab pengungkapan"
+intext:"Panggung jawab pengungkapan" site:*.vn
+Vietnam
+
+intext:"Bevishibot daab"
+intext:"Bevishibot daab" site:*.za
+South Africa
+
+intext:"Ansvarig offentliggörande"
+intext:"Ansvarig offentliggörande" site:*.fi
+Finland
